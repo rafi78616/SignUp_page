@@ -1,0 +1,11 @@
+//HOW TO RUN THE CODE
+
+-->open the folder in visual code studio(or any studio you like)
+-->open index.html code file
+-->start live server 
+
+
+//functionalities
+--> the page is mobile responsive/compatabile.
+-->On ever refresh the page randomly selects background image present in the images folder
+-->Hence you get new background image on every refresh of the page
